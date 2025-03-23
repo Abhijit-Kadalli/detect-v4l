@@ -5,7 +5,7 @@ A Python library for detecting and identifying Video4Linux (V4L) cameras on Linu
 ## Installation
 
 ```bash
-pip install detect_v4ln
+pip install detect_v4l
 ```
 
 ## Usage
