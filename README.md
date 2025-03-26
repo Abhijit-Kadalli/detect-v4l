@@ -11,7 +11,7 @@ pip install detect_v4l
 ## Usage
 
 ```python
-from detect_v4ln import CameraDetector
+from detect_v4l import CameraDetector
 
 # List all connected cameras
 cameras = CameraDetector.list_cameras()
